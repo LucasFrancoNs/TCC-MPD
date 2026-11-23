@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="MPD Nexus">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff9a4d"/><stop offset="1" stop-color="#e8590c"/></linearGradient></defs>
+  <rect x="1.4" y="1.4" width="45.2" height="45.2" rx="8" fill="#111114" stroke="url(#g)" stroke-width="2.8"/>
+  <g transform="translate(24 25.2) scale(.74) translate(-24 -24)">
+    <polygon points="8,38 8,19 16,10 24,18 32,10 40,19 40,38 33,38 33,24 24,33 15,24 15,38" fill="url(#g)" stroke="url(#g)" stroke-width="1.6" stroke-linejoin="round"/>
+    <rect x="33.6" y="6.5" width="4" height="7" rx=".8" fill="url(#g)"/>
+  </g>
+</svg>
